@@ -1,0 +1,14 @@
+.header {
+  background-color: #0088ff;
+}
+.heading {
+  font-weight: bold;
+  font-size: 35px;
+}
+.text {
+  font-family: arial;
+  font-size: 20px;
+}
+a {
+  font-size: 20px;
+}
